@@ -1,0 +1,81 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Dark as Heck",
+  "author": "decorator-factory",
+  "themes": [
+    {
+      "name": "Dark As Heck",
+      "appearance": "dark",
+      "style": {
+        "background": "#000000",
+        "editor.background": "#000000",
+        "editor.foreground": "#ffffff",
+        "editor.indent_guide": "#1a1a1f",
+        "editor.indent_guide_active": "#303037",
+        "editor.document_highlight.bracket_background": "#2f485d",
+
+        "modified": "#adffb4",
+        "modified.background": "#3d5737",
+
+        "deleted": "#fd7c98",
+        "deleted.background": "#4b1129",
+
+        "hint": "#2f4643",
+
+        "players": [
+          {
+            "cursor": "#eeeeffc0",
+            "selection": "#33333fd0"
+          }
+        ],
+
+        "syntax": {
+          "comment": {
+            "color": "#b5f5d8",
+            "background_color": "#273438"
+          },
+          "comment.doc": {
+            "color": "#b5f5d8",
+            "background_color": "#1c2125"
+          },
+          "keyword": {
+            "color": "#64b9ff"
+          },
+          "title": {
+            "color": "#64b9ff"
+          },
+          "emphasis": {
+            "color": "#ffffff",
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "color": "#ffffff",
+            "font_weight": 700
+          },
+          "punctuation": {
+            "color": "#64b9ff"
+          },
+          "operator": {
+            "color": "#64b9ff"
+          },
+          "constant": {
+            "color": "#acffb3"
+          },
+          "boolean": {
+            "color": "#acffb3"
+          },
+          "number": {
+            "color": "#acffb3"
+          },
+          "string": {
+            "color": "#acffb3"
+          },
+          "hint": {
+            "color": "#b5f5d8d0",
+            "font_style": "italic"
+          }
+        }
+      }
+    }
+  ]
+}
