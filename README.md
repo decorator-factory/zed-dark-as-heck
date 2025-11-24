@@ -18,3 +18,4 @@ Zed seems to have good default colors that are compatible with this theme.
 1. Clone this repository (or just copy `dark-as-heck.json` from the Github site, I won't judge)
 2. If you're on linux/mac, copy `dark-as-heck.json` to `~/.config/zed/themes`
 3. If you're on windows, it's probably `%APPDATA%\Zed` but I'm not sure
+4. In Zed, press "Ctrl-K Ctrl-T" to select the theme
