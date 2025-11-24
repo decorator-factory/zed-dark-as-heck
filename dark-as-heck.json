@@ -20,6 +20,9 @@
         "deleted": "#fd7c98",
         "deleted.background": "#4b1129",
 
+        "warning.background": "#705633",
+        "error.background": "#4d1e13",
+
         "hint": "#2f4643",
 
         "players": [
